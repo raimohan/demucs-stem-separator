@@ -1,10 +1,3 @@
-# Here are your README.md and LICENSE files:
-
-## 📄 README.md
-
-```markdown
-<div align="center">
-
 # 🎵 Demucs Audio Stem Separator
 
 ### AI-Powered Music Source Separation Tool
